@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "chen.js": "^1.0.22",
-    "github-webhook-handler": "^0.7.1"
+    "debug": "^3.1.0",
+    "formidable": "^1.2.1"
   }
 }
